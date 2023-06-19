@@ -12,5 +12,5 @@ It is a html project for beginner on college experience. It consists and shows i
 # Technology used
  1. HTML
  2. CSS
- 3. Javascript
+ 
   
