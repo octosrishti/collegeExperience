@@ -10,7 +10,7 @@ It is a html project for beginner on college experience. It consists and shows i
 3. canditates info- It consists and information related to  canditates who are involved in making this project.
 
 # Technology used
-  HTML
-  CSS
-  Javascript
+ 1. HTML
+ 2. CSS
+ 3. Javascript
   
